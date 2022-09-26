@@ -1,0 +1,10 @@
+Я изучил работу (homework 21) https://github.com/daria-iliashevskaia/homework.git
+
+В файле с main
+В строке 21 нет проверки что вводят число. - Можно было обернуть в try except
+
+
+
+
+
+
